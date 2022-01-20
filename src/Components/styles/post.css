@@ -1,0 +1,15 @@
+.postBox{
+    width: 40vw;
+    height: auto;
+    background-color: #fff;
+    text-align: left;
+    border-radius: 20px;
+    padding: 30px 20px;
+    margin: 10px;
+}
+.postTitle{
+    font-weight: bold;
+}
+.user{
+    display: flex;
+}
